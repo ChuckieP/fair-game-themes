@@ -1,6 +1,6 @@
 :root.qud {
 
-    --colourone: #0096ff;
+    --colourone: #77bfcf;
     --colourtwo: #0096ff;
     --colourthree: #ffffff;
     --colourfour: #40a4b9;
